@@ -11,7 +11,6 @@
   inputs.src-html5_canvas-master.ref   = "refs/heads/master";
   inputs.src-html5_canvas-master.owner = "define-private-public";
   inputs.src-html5_canvas-master.repo  = "HTML5-Canvas-Nim";
-  inputs.src-html5_canvas-master.dir   = "";
   inputs.src-html5_canvas-master.type  = "gitlab";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
