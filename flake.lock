@@ -21,33 +21,6 @@
         "type": "github"
       }
     },
-    "html5_canvas-master": {
-      "inputs": {
-        "flakeNimbleLib": [
-          "flakeNimbleLib"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ],
-        "src-html5_canvas-master": "src-html5_canvas-master"
-      },
-      "locked": {
-        "dir": "master",
-        "lastModified": 1656297773,
-        "narHash": "sha256-Q3k7cGqJHCeeW0aUJoGl3Nyif0Blf3KujAkTkr5+F3s=",
-        "owner": "nim-nix-pkgs",
-        "repo": "html5_canvas",
-        "rev": "266505fe163361095715b1f04179fd0a48198c3e",
-        "type": "github"
-      },
-      "original": {
-        "dir": "master",
-        "owner": "nim-nix-pkgs",
-        "ref": "master",
-        "repo": "html5_canvas",
-        "type": "github"
-      }
-    },
     "nixpkgs": {
       "locked": {
         "lastModified": 0,
@@ -63,25 +36,7 @@
     "root": {
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
-        "html5_canvas-master": "html5_canvas-master",
         "nixpkgs": "nixpkgs"
-      }
-    },
-    "src-html5_canvas-master": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1488943387,
-        "narHash": "sha256-F+759iuqWNVjXoreeDeDJJwXaA7wbJUa61r0HLrNyEo=",
-        "owner": "define-private-public",
-        "repo": "HTML5-Canvas-Nim",
-        "rev": "9302d96efb5b4d0fc406e9eb20deca9c5465cef8",
-        "type": "gitlab"
-      },
-      "original": {
-        "owner": "define-private-public",
-        "ref": "refs/heads/master",
-        "repo": "HTML5-Canvas-Nim",
-        "type": "gitlab"
       }
     }
   },
