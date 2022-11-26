@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668775865,
-        "narHash": "sha256-SVzakMlLHrVIU2UzUdMdy5OkuyPG3WMYWaNlng2JbUc=",
+        "lastModified": 1669431141,
+        "narHash": "sha256-vLsguBjVhxL3pav/qbOh8rmc1XKn6BOcI37w3D2dMSs=",
         "owner": "nim-nix-pkgs",
         "repo": "html5_canvas",
-        "rev": "f4ac5ac333928ce990e7b04e0f4be1aa2e10796f",
+        "rev": "734c4e800df583d6fb2b7842c356af5309afab87",
         "type": "github"
       },
       "original": {
